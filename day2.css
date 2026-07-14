@@ -1,0 +1,37 @@
+.div1,
+.div2,
+.div3 {
+  height: 100px;
+  width: 100px;
+}
+.div1 {
+  background-color: aqua;
+  opacity: 0.5;
+}
+.div2 {
+  background-color: green;
+  opacity: 0.5;
+}
+.div3 {
+  background-color: yellow;
+  opacity: 0.5;
+}
+.navbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.account,
+.contact,
+.cart,
+.amazon {
+  text-decoration: none;
+}
+.amazon {
+  color: yellow;
+}
+.button {
+  background-color: yellow;
+  color: white;
+}
