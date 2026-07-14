@@ -1,0 +1,46 @@
+#box {
+  background-color: blue;
+  color: white;
+}
+.heading {
+  color: red;
+}
+button {
+  color: green;
+}
+.text {
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Times New Roman", Times, serif;
+}
+#outher {
+  font-size: 25px;
+}
+#inner {
+  font-size: 10px;
+}
+#newdiv {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: green;
+}
+.navbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.account,
+.contact,
+.cart,
+.amazon {
+  text-decoration: none;
+}
+.amazon {
+  color: yellow;
+}
+.button {
+  background-color: yellow;
+  color: white;
+}
